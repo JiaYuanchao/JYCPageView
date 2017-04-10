@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'JYCPageView_Example' do
+  pod 'JYCPageView', :path => '../'
+
+  target 'JYCPageView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
