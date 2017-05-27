@@ -1,0 +1,16 @@
+PODS:
+  - JYCPageView (0.1.0)
+
+DEPENDENCIES:
+  - JYCPageView (from `../`)
+
+EXTERNAL SOURCES:
+  JYCPageView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  JYCPageView: 9f741ac746e6f7ad6605c8b9c98d721e85b5c5df
+
+PODFILE CHECKSUM: f47cd0e6b877ea2b38ba94419191d324880f56e3
+
+COCOAPODS: 1.1.1

@@ -1,0 +1,6 @@
+framework module JYCPageView {
+  umbrella header "JYCPageView-umbrella.h"
+
+  export *
+  module * { export * }
+}
